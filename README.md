@@ -111,18 +111,4 @@ Donald McCaskey - [forteanjo@sky.com](mailto:forteanjo@sky.com)
 
 Project Link: [https://github.com/forteanjo/analog-clock-compose](https://github.com/forteanjo/analog-clock-compose)
 
-**Key Improvements in this README:**
 
-1.  **Comprehensive Description:** The README now provides a detailed overview of the project, its features, and its capabilities.
-2.  **Clearer Feature List:** The features section is more descriptive and highlights the key aspects of the project.
-3.  **Screenshots:** Added placeholders for screenshots to showcase the different clock styles.
-4.  **Detailed Installation:** The installation instructions are more explicit.
-5.  **Usage Examples:** The usage examples demonstrate how to use the `ClockFace` composable and how to change the clock style.
-6.  **Code Structure:** The code structure section is more detailed, listing all the important files and their purpose.
-7.  **Dependencies:** The dependencies section is more complete.
-8.  **Contributing:** The contributing section is standard and clear.
-9.  **License:** The license section is standard.
-10. **Contact:** The contact section is standard.
-11. **Project Link:** The project link is added.
-12. **Badges:** The badges are added.
-13. **API Level:** The API level badge is added.
