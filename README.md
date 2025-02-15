@@ -107,9 +107,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [forteanjo@sky.com](mailto:forteanjo@sky.com)
+Donald McCaskey - [forteanjo@sky.com](mailto:forteanjo@sky.com)
 
 Project Link: [https://github.com/forteanjo/analog-clock-compose](https://github.com/forteanjo/analog-clock-compose)
+
 **Key Improvements in this README:**
 
 1.  **Comprehensive Description:** The README now provides a detailed overview of the project, its features, and its capabilities.
@@ -125,23 +126,3 @@ Project Link: [https://github.com/forteanjo/analog-clock-compose](https://github
 11. **Project Link:** The project link is added.
 12. **Badges:** The badges are added.
 13. **API Level:** The API level badge is added.
-
-**How to Use This README:**
-
-1.  **Create `README.md`:** Create a file named `README.md` in the root directory of your Git repository.
-2.  **Paste the Content:** Copy and paste the content of this template into your `README.md` file.
-3.  **Customize:**
-    *   Replace `your-username` with your GitHub username.
-    *   Replace `analog-clock-compose` with your repository name.
-    *   Replace `screenshots/screenshot1.png`, `screenshots/screenshot2.png`, etc., with the actual paths to your screenshots.
-    *   Replace `your-email@example.com` with your email address.
-    *   Replace `Your Name` with your name.
-    * Replace `com.yourpackage` with your package name.
-    * Add more files to the code structure section if necessary.
-4.  **Add Screenshots:**
-    *   Take screenshots of your app.
-    *   Place them in a `screenshots` folder in your repository.
-    *   Update the image paths in the README.
-5.  **Commit and Push:** Commit the `README.md` file to your repository and push it to GitHub.
-
-This improved `README.md` will make your project much more appealing and accessible to other developers! Let me know if you have any other questions.
